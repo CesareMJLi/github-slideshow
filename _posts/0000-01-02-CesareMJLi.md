@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Pffft Something new bird circle tree
 Use the left arrow to go back!
